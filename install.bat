@@ -4,7 +4,7 @@ setlocal
 mkdir "%temp%\CSHCPS"
 
 
-curl https://github.com/BoiledPeanuts/CSHCPS/blob/main/sample%20folder.zip?raw=true -o "%temp%\CSHCPS\sample folder.zip"
+curl https://github.com/BoiledPeanuts/CSHCPS/blob/main/samplefolder.zip?raw=true -o "%temp%\CSHCPS\sample folder.zip"
 
 
 
