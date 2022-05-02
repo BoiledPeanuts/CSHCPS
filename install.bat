@@ -5,7 +5,7 @@ mkdir "%temp%\CSHCPS"
 
 
 curl https://github.com/BoiledPeanuts/CSHCPS/blob/main/samplefolder.zip?raw=true -o "%temp%\CSHCPS\samplefolder.zip"
-
+Call :UnZipFile "%temp%\CSHCPS\" "%temp%\CSHCPS\samplefolder.zip"
 
 
 :UnZipFile <ExtractTo> <newzipfile>
