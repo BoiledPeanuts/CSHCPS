@@ -21,5 +21,3 @@ if exist %vbs% del /f /q %vbs%
 >>%vbs% echo Set objShell = Nothing
 cscript //nologo %vbs%
 if exist %vbs% del /f /q %vbs%
-
-del "%temp%\CSHCPS\parsec-flat-windows32.zip"
